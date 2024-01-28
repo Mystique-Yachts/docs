@@ -4,7 +4,10 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Dashboard](./dashboard.md).
+# [Dashboard](./dashboard.md)
+# [Bookings](./bookings.md)
+# [Yachts](./yachts.md)
+# [Documentation](./documentation.md)
 
 There should be whitespace between paragraphs.
 
