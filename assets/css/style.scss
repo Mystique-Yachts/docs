@@ -4,6 +4,14 @@
 @import "{{ site.theme }}";
 
 header {
-  padding-top: 5px;
-  padding-bottom: 1px;
+  padding-top: 25px;
+  padding-bottom: 10px;
+}
+
+header h1 {
+  font-size: 48px;
+  font-weight: bold;
+  line-height: 1.2;
+  color: #0099CC;
+  letter-spacing: -1px;
 }
