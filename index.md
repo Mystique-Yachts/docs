@@ -9,3 +9,6 @@ This document describes the main features of the broker portal. The sidebar has 
 # [Yachts](./yachts.md)
 # [Documentation](./documentation.md)
 
+# [General Settingas](./settings.md)
+
+
