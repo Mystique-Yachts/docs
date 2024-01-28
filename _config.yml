@@ -1,29 +1,15 @@
-#
-# This file contains configuration flags to customize your site
-#
-
 # Name of your site (displayed in the header)
 name: Mystique Docs
 
 # Short bio or description (displayed in the header)
 description: Documentation
 
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar:
-
-# Used for sitemap.xml
-url:
-
-# If you're hosting your site at a Project repository on GitHub pages
-# (http://yourusername.github.io/repository-name)
-# and NOT your User repository (http://yourusername.github.io)
-# then add in the baseurl here, like this: "/repository-name"
-baseurl: "http://mystique-yachts.github.io/docs"
+#baseurl: "http://mystique-yachts.github.io/docs"
 
 # Define the theme
 remote_theme: pages-themes/architect@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-theme: jekyll-theme-architect
+#theme: jekyll-theme-architect
 title: Mystique Yachts Broker Portal
 description: Guide for the Mystique Yachts broker portal
