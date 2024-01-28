@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+This document describes the main features of the broker portal. The sidebar has four main tabs that are described below:
 
 # [Dashboard](./dashboard.md)
 # [Bookings](./bookings.md)
