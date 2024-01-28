@@ -1,15 +1,5 @@
-# Name of your site (displayed in the header)
-name: Mystique Docs
-
-# Short bio or description (displayed in the header)
-description: Documentation
-
-#baseurl: "http://mystique-yachts.github.io/docs"
-
-# Define the theme
 remote_theme: pages-themes/architect@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-#theme: jekyll-theme-architect
-title: Mystique Yachts Broker Portal
-description: Guide for the Mystique Yachts broker portal
+title: Mystique Yachts
+description: Broker Portal Tutorial
