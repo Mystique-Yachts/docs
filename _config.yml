@@ -3,5 +3,5 @@
 #- jekyll-remote-theme # add this line to the plugins list if you already have one
 theme: jekyll-theme-architect
 title: Mystique Yachts
-description: Broker Portal Tutorial
+description: Broker Portal Documentation
 clasees: wide
