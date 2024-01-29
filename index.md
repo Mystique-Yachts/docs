@@ -6,9 +6,9 @@ This document describes the main features of the Mystique Yachts broker portal. 
 
 The sidebar comprises four primary tabs, each outlined below:
 
-* [Dashboard](./dashboard.md)
-* [Bookings](./bookings.md)
-* [Yachts](./yachts.md)
-* [Documentation](./documentation.md)
+## [Dashboard](./dashboard.md)
+## [Bookings](./bookings.md)
+## [Yachts](./yachts.md)
+## [Documentation](./documentation.md)
 
 
