@@ -1,6 +1,6 @@
 Upon logging in, you will be directed to your account dashboard,
 
-#####![Dashboard](assets/images/Dashboard.png "Dashboard")
+
 
 presenting a comprehensive overview of your key data.
 
