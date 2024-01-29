@@ -11,6 +11,4 @@ The sidebar comprises four primary tabs, each outlined below:
 # [Yachts](./yachts.md)
 # [Documentation](./documentation.md)
 
-# [General Settingas](./settings.md)
-
 
