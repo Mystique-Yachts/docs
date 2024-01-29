@@ -15,3 +15,13 @@ Enter the yacht's name and click **Create**
 Upon clicking **OK**, you'll be directed to the yacht detail page, where you can input all pertinent yacht details.
 
 ![Yacht details](assets/images/YachtDetails.png "Yacht details")
+
+Once you click on **Save**, a confirmation popup window will appear, verifying that all information has been successfully saved in the system.
+
+![Popup after save](assets/images/YachtDetails_PopUpAfterSave.png "Popup after save")
+
+Upon clicking **OK**, another popup window will inform you that the yacht will be published only after approval from Mystique Yachts.
+
+![Popup waiting for approval](assets/images/YachtDetails_PopUpWaitingForApproval.png "Popup waiting for approval")
+
+Mystique Yachts will promptly review all provided information and proceed to publish the yacht on the website.
