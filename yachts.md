@@ -24,4 +24,4 @@ Upon clicking **OK**, another popup window will inform you that the yacht will b
 
 ![Popup waiting for approval](assets/images/YachtDetails_PopUpWaitingForApproval.png "Popup waiting for approval")
 
-Mystique Yachts will promptly review all provided information and proceed to publish the yacht on the website.
+**Mystique Yachts will promptly review all provided information and proceed to publish the yacht on the website**.
