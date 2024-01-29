@@ -25,3 +25,7 @@ Upon clicking **OK**, another popup window will inform you that the yacht will b
 ![Popup waiting for approval](assets/images/YachtDetails_PopUpWaitingForApproval.png "Popup waiting for approval")
 
 **Mystique Yachts will promptly review all provided information and proceed to publish the yacht on the website**.
+
+Upon selecting **OK**, you will be directed to a summary page where you can modify the entered information, incorporate additional yacht images, and upload PDF documents such as the yacht brochure or charter agreement.
+
+![Yacht details summary](assets/images/YachtDetailsSummary.png "Yacht details summary")
